@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: zomato
-        image: pray12/zomato:latest
+        image: pray12/zomato-app:latest
         ports:
         - containerPort: 3000
